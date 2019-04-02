@@ -1,0 +1,55 @@
+.headericon{
+  color:#fff;
+  margin-bottom:0;
+  text-align: center;
+}
+.mheader-warp{
+  max-width: 980px;
+  margin: 0 auto;
+}
+.mheader-diver{
+  height:38px;
+  width:2px;
+}
+.mheader-nav{
+  display: flex;
+  align-items: center;
+
+}
+#header-navlist1{
+  background: #000;
+  line-height: 62px;
+  font-weight:bold;
+  margin-left:30px;
+}
+
+#header-navlist2{
+  background: #000;
+  line-height:40px;
+  font-weight:bold;
+  margin-left:0px;
+}
+#header-navlist1 a{
+  color:#fff;
+}
+#header-navlist2 a{
+  color:#fff;
+}
+#header-navlist1 a:hover{
+  color:#1890ff;
+}
+#header-navlist2 a:hover{
+  color:#1890ff;
+}
+#header-navlist1 .ant-menu-item-selected a{
+  color:#1890ff;
+}
+#header-navlist2 .ant-menu-item-selected a{
+  color:#1890ff;
+}
+.header-xsNav{
+  position: absolute;
+  right:0;
+  top:0px;
+  width:auto;
+}

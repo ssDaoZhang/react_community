@@ -1,0 +1,24 @@
+.warp{
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  
+}
+.ant-list-vertical  .ant-list-item-meta{
+  align-items: center;
+  margin:6px 0;
+}
+.ant-list-item-extra{
+  line-height:44px;
+}
+.ant-list-item-action{
+  margin-left:50px;
+}
+.ant-list-item-meta{
+  min-width: 200px;
+  align-items:center;
+}
+
+.warp img{
+  max-width:100%;
+}
